@@ -1,5 +1,5 @@
 .btn {
-    color: white;
+    color: rgb(255, 255, 255);
     background:rgb(225, 169, 63) ;
   }
   
@@ -17,7 +17,7 @@
 
   .card{
       display: flex;
-      margin: 280px 80px 250px 120px;  
+      margin: 150px 80px 2px 120px;  
   }
   
   .caja {
