@@ -1,0 +1,32 @@
+.btn {
+    color: white;
+    background:rgb(225, 169, 63) ;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  .boton {
+    border-color: white;
+    border-radius: 0.2rem;
+  }
+
+  .btn:hover {
+    background-color: orange;
+  }
+
+  .card{
+      display: flex;
+      margin: 280px 80px 250px 120px;  
+  }
+  
+  .caja {
+    display: flex;
+    margin: 100px 100px 200px 200px !important;
+    width: 400rem;
+  
+  }
+
+  .end{
+    padding-left: 1rem;
+  }
