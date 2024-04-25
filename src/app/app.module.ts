@@ -7,7 +7,8 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { PrincipalComponent } from './principal/principal.component';
 import { Imagenes2dComponent } from './imagenes2d/imagenes2d.component';
-import { HomeComponent } from './home/home.component'
+import { HomeComponent } from './home/home.component';
+import { Imagenes3dComponent } from './imagenes3d/imagenes3d.component'
 
 //rutas
 
@@ -19,7 +20,8 @@ import { HomeComponent } from './home/home.component'
     FooterComponent,
     PrincipalComponent,
     Imagenes2dComponent,
-    HomeComponent
+    HomeComponent,
+    Imagenes3dComponent
   ],
   imports: [
     BrowserModule,
